@@ -1,0 +1,3 @@
+Python3.3编写的
+另外需要gameobject 和 pygame模块，游戏开发必备
+gameobject貌似不支持python3，所以我修改了vector里面部分代码
